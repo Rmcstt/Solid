@@ -17,4 +17,4 @@ class Repo():
     return self._size
 
   def __str__(self):
-    return f'id: {self._id} name: {self._name} size: {self._size} bytes'
+    return f'id: {self._id} name: {self._name} tamanho: {self._size} kb'
