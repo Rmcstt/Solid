@@ -1,4 +1,4 @@
-from solution.client import GithubClient
+from github.client import GithubClient
 from repo.parse import RepoParser
 
 
