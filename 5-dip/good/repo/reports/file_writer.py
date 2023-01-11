@@ -1,4 +1,4 @@
-class ReportFile():
+class ReportFileWriter():
 
   @staticmethod
   def write(report):

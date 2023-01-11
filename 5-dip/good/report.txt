@@ -1,0 +1,17 @@
+## REPOS 
+
+**ID: **493689196 **NAme: **array **Size: **7
+ **ID: **516043831 **NAme: **css **Size: **21
+ **ID: **504189059 **NAme: **EcmaScript **Size: **11
+ **ID: **492636339 **NAme: **exercicios-js **Size: **14
+ **ID: **492636540 **NAme: **fundamentos **Size: **1
+ **ID: **512752061 **NAme: **html **Size: **847
+ **ID: **440378078 **NAme: **nlw **Size: **11706
+ **ID: **498795728 **NAme: **NODE-js **Size: **52
+ **ID: **492637494 **NAme: **objeto-js **Size: **8
+ **ID: **500258223 **NAme: **project-game-1 **Size: **240
+ **ID: **497974436 **NAme: **Python **Size: **101906
+ **ID: **438338832 **NAme: **Rmcstt **Size: **1817
+ **ID: **580768561 **NAme: **Solid **Size: **50
+ **ID: **492637369 **NAme: **training_js **Size: **12
+ **ID: **495943538 **NAme: **trainning2 **Size: **9
